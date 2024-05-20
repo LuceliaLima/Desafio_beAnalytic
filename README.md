@@ -40,3 +40,6 @@ Utilizamos a biblioteca Selenium para automatizar a navegação e extração de 
 - Exportação dos Dados:
   - Conectamos a tabela do BigQuery ao Google Sheets para facilitar a visualização e compartilhamento dos dados.
   - Compartilhamento do Link do Google Sheets:: https://docs.google.com/spreadsheets/d/e/2PACX-1vTANV_3cVQNkJRb_PFkdP2NSaQpx9S5mGbDN7EjzRkIi-lIwQJ0G6HqGmRqZ5DIwXcnS7j7UCAUmIbz/pubhtml?gid=1285478464&single=true
+
+
+Obs: Em caso de erro de leitura do code acesse através do https://nbviewer.org/
