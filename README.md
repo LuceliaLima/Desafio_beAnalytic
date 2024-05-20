@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo extrair dados de promoções do site SteamDB, processar essas informações e armazená-las no Google BigQuery. Posteriormente, os dados são conectados ao Google Sheets para facilitar a visualização e compartilhamento.
+Este projeto tem como objetivo extrair dados do site SteamDB, processar essas informações e armazená-las no Google BigQuery. Posteriormente, os dados são conectados ao Google Sheets para facilitar a visualização e compartilhamento.
 
 ## Passos Realizados
 
