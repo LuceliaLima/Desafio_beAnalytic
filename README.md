@@ -27,14 +27,14 @@ Utilizamos a biblioteca Selenium para automatizar a navegação e extração de 
 
 ### 3. Processamento dos Dados
 - Formatação dos Dados:
-  - Ajustamos os dados extraídos para garantir consistência e integridade.
+  - Ajustado os dados extraídos para garantir consistência e integridade.
   - Colunas como Percentage, Price, Rating, Release, foram limpas e convertidas para formatos apropriados.
     
 ### 4. Armazenamento no Google BigQuery
 
 - Configuração das Credenciais:
-  - Configuramos as credenciais do Google Cloud para permitir o acesso ao BigQuery.
-  - Definimos o schema do dataset e carregamos os dados processados para uma tabela no BigQuery.
+  - Configurado as credenciais do Google Cloud para permitir o acesso ao BigQuery.
+  - Definido o schema do dataset e carregamos os dados processados para uma tabela no BigQuery.
  
 ### 5. Conexão com Google Sheets
 - Exportação dos Dados:
