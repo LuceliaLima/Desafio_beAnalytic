@@ -1,6 +1,6 @@
 # Desafio beAnalytic - Extração de Dados do SteamDB
 
-##Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto tem como objetivo extrair dados de promoções do site SteamDB, processar essas informações e armazená-las no Google BigQuery. Posteriormente, os dados são conectados ao Google Sheets para facilitar a visualização e compartilhamento.
 
@@ -39,3 +39,4 @@ Utilizamos a biblioteca Selenium para automatizar a navegação e extração de 
 ### 5. Conexão com Google Sheets
 - Exportação dos Dados:
   - Conectamos a tabela do BigQuery ao Google Sheets para facilitar a visualização e compartilhamento dos dados.
+  - Compartilhamento do Link do Google Sheets:: https://docs.google.com/spreadsheets/d/e/2PACX-1vTANV_3cVQNkJRb_PFkdP2NSaQpx9S5mGbDN7EjzRkIi-lIwQJ0G6HqGmRqZ5DIwXcnS7j7UCAUmIbz/pubhtml?gid=1285478464&single=true
